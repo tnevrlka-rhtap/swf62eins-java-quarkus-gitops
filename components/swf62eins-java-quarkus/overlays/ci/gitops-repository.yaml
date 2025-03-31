@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: swf62eins-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/swf62eins-java-quarkus-gitops
